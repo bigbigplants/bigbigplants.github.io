@@ -379,11 +379,11 @@ The ampere (amp) is the unit of measure for electrical current (the speed at whi
 Volts are the unit of measurement for the difference in electrical potential between any two points in an electrical circuit.
 Ohms are the unit of measurement for eletrical resistance.
 
-\(V = I * R\)
+$$V = I * R$$
 
 Watt is the unit of measurement for the rate at which eletrical energy is transferred in a circuit.
 
-\(P = V * I\)
+$$P = V * I$$
 
 ### Solar Panels
 Solar panels generate electricity from sunlight.
@@ -396,7 +396,7 @@ Biogas is produced by the anaerobic decomposition of organic material.
 
 The equation for anaerobic decomposition is
 
-\(Organic Waste -> Biogas + Digestate + Water\)
+$$Organic Waste -> Biogas + Digestate + Water$$
 
 ## Economics
 Like other types of farming, the economics of hydroponics is fairly simple: the plants you grow should be more valuable than it costs to grow them.
