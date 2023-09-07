@@ -14,15 +14,11 @@
 {:toc}
 
 
-$$x+1$$
-
-$$\ce{CO2 -> O2}$$
-
 # Introduction
 
-So, you want to grow plants? (horticulture)
+So, you want to grow plants?
 
-This document contains my lab notes for a hobbyist/amateur botany project. This project’s aim is to establish and construct optimal growing conditions for a range of plants, with the ultimate achievement being the growth and propagation of rare and exotic species.
+This document contains my lab notes for a hobbyist/amateur botany project. This project’s aim is to establish and construct optimal growing conditions for a range of plants, with the ultimate achievement being the growth and propagation of rare and exotic species. A side quest of this project is to establish these conditions in as low-cost a way as possible, and as efficiently as possible.
 
 In order to control the growing environment more precisely, I’ll be using a hydroponic setup. This means I can precisely control all variables relating to the plant’s growth, including specifics of their nutrient intake.
 
@@ -30,17 +26,17 @@ In order to control the growing environment more precisely, I’ll be using a hy
 
 Plants, like all living creatures, require nutrients and a suitable environment to grow. This growth follows a lifecycle which can be described in distinct stages. These stages are as follows;
 
-\item \textbf{Sprout} – seeds germinate and grow their first pair of leaves using the nutrients in the seed itself
-\item \textbf{Seedling} – roots begin to develop
-\item \textbf{Vegetative} – stems and foliage increase
-\item \textbf{Budding} – full grown plants develop buds which may become flowers
-\item \textbf{Flowering} – the plant produces flowers and possibly fruit
-\item \textbf{Ripening} – the plant is fully mature and the flowers/fruits become read
+ - Sprout – seeds germinate and grow their first pair of leaves using the nutrients in the seed itself
+ - Seedling – roots begin to develop
+ - Vegetative – stems and foliage increase
+ - Budding – full grown plants develop buds which may become flowers
+ - Flowering – the plant produces flowers and possibly fruit
+ - Ripening – the plant is fully mature and the flowers/fruits become read
 
 
 ## Plant Reproduction
 Plants (specifically spermatophytes aka seed-bearing plants) come from seeds, which are produced by existing plants at full maturity. 
-The process of these seeds turning into a plant is called \textbf{germination}, and requires specific environmental conditions to be met.
+The process of these seeds turning into a plant is called **germination**, and requires specific environmental conditions to be met.
 A seed which has completed the germination process (and is now a baby plant), is called a seedling.
 
 Not all seeds from a given sample will germinate over a given period.
@@ -125,8 +121,8 @@ Fertigation = adding nutrients to a crop using irrigation systems.
 
 ### Determinate vs Indeterminate Growth
 Plants can either follow a set lifecycle, in which they germinate, grow, flower, and eventually die, or they can live indefinitely under the correct conditions.
-Plants which follow a set lifecycle are said to be \textbf{determinate}.
-Plants which can live indefinitely under the correct conditions are said to be \textbf{indeterminate}, or exhibit indeterminate growth.
+Plants which follow a set lifecycle are said to be **determinate**.
+Plants which can live indefinitely under the correct conditions are said to be **indeterminate**, or exhibit indeterminate growth.
 Whether or not a plant is determinate or indeterminate depends on the genetic structure of the plant itself, rather than its environmental conditions.
 One cannot make a plant of a determinate species live forever, and, given favourable and unchanging conditions, one cannot expect an indeterminate plant to stop growing.
 
@@ -138,7 +134,7 @@ The creation of these plants requires a genetic engineering process of some kind
 
 #### CRISPR
 Each living cell (in the Eukarya domain) contains a nucleus, which itself contains a molecule which describes how that cell should develop, function, grow, and reproduce.
-This molecule is called \textbf{DNA}, which stands for deoxyribonucleic acid.
+This molecule is called **DNA**, which stands for deoxyribonucleic acid.
 DNA is structured as two long strands of nucleotide bases (type of smaller molecule).
 These strands wrap together based on these bases to form a large double-helix shaped molecule.
 The four nucleotide bases in DNA are adenine (A), cytosine (C), guaning (G), and thymine (T).
@@ -146,16 +142,16 @@ These bases always exist as pairs along the strands of DNA, these 'base pairs' a
 
 RNA is a molecule which can carry genetic information, and which has a number of purposes...
 One purpose is to associate with enzymes and guide them to a location on another RNA (or DNA) molecule.
-In CRISPR, a short sequence of nucleic acids called \textbf{guide RNA} (gRNA) helps guide enzymes to specific sections in DNA strands.
+In CRISPR, a short sequence of nucleic acids called **guide RNA** (gRNA) helps guide enzymes to specific sections in DNA strands.
 Using a word-search analogy, the gRNA is the word to find in a string of text - in this case the sequence to find in a string of DNA.
 
-\textbf{Cas9} is an enzyme which can cut apart DNA.
+**Cas9** is an enzyme which can cut apart DNA.
 The Cas9 enzyme then cuts the DNA completely at the location the gRNA identified.
 When the DNA in a cell is damaged, the cell will try to repair the break.
 This repair can happen in two ways.
-The first is \textbf{nonhomologous} (the ends join back together).
+The first is **nonhomologous** (the ends join back together).
 This usually results in gene disfunction, but is useful for finding what a gene does.
-The second is \textbf{homology directed repair}, which uses a strand of nucleotide bases to guide cell repair.
+The second is **homology directed repair**, which uses a strand of nucleotide bases to guide cell repair.
 They do this by having a middle part of a strand (the bit you want to add to the DNA), and 'homology arms' on each side, which exactly match the DNA sequences on either side of the cut.
 This directs the cell to use the middle part as a guide when repairing its DNA, thereby inserting the patch's sequence into the cell's DNA.
 
@@ -193,10 +189,10 @@ That said, we have to start somewhere, so the generally accepted system we use t
 
 
 To keep these notes shorter than several libraries worth, we'll only look at the levels which relate to plants we may eventually grow, and even then will greatly simplify their taxonomy to save space.
-To begin, we start with the domain of \textbf{Eukarya}, which contains all organisms whose cells have a nucleus.
-From there, we are interested in the phylum of \textbf{Plantae}, which are organisms which obtain their energy from sunlight using chlorophyll.
+To begin, we start with the domain of **Eukarya**, which contains all organisms whose cells have a nucleus.
+From there, we are interested in the phylum of **Plantae**, which are organisms which obtain their energy from sunlight using chlorophyll.
 Once we are talking about Plantae, things are still surprisingly broad.
-In the business of hydroponics, we are likely going to be focussing on the class of Plantae called \textbf{Angiosperms}, which are commonly referred to as `flowering plants'.
+In the business of hydroponics, we are likely going to be focussing on the class of Plantae called **Angiosperms**, which are commonly referred to as `flowering plants'.
 These plants produce seeds, and contain over 300,000 species.
 Of the Angiosperms, it then becomes a bit more specific, with things like carrots being classified as being in the order of Apiales (a group of molecularly similar plants), and tomatoes being classified as being in the order of Solaneles.
 
@@ -261,7 +257,7 @@ Ginseng is the root of a plant in the Panax genus.
 
 \minitoc
 
-Hydroponics is the growth of plants without soil. To achieve this, the soil’s role is replaced by a) an inert \textbf{growth medium}, and b) \textbf{nutrients} delivered in solution.
+Hydroponics is the growth of plants without soil. To achieve this, the soil’s role is replaced by a) an inert **growth medium**, and b) **nutrients** delivered in solution.
 These components each support plant growth in different ways. Growth mediums provide physical support to the plant, and the nutrient solution provides essential chemical compounds in addition to water.
 
 ## Growth Mediums
@@ -269,7 +265,7 @@ In hydroponics, a growth medium, or substrate, is an inert substance which provi
 Whilst these mediums are not strictly necessary, without them a set of supporting ropes/frames would be needed for each plant, so using them reduces the amount of labor/attention needed.
 
 Growth mediums may also not be completely inert. 
-Some mediums can absorb nutrients, which is expressed as their cation exchange capacity (\textbf{CEC}). 
+Some mediums can absorb nutrients, which is expressed as their cation exchange capacity (**CEC**). 
 Mediums with high CEC's are generally better as more nutrients can reach the plants where they directly contact the medium, but this can cause the medium itself to degrade.
 Several popular growth mediums exist, each with their own benefits and drawbacks.
 
@@ -539,9 +535,9 @@ During photosynthesis, plants absorb carbon dioxide (CO2) and produce oxygen (O2
 However, photosynthesis does not occur when the plant is not under light, which for optimal growth should be at least 8 hours per day.
 Plants also respire, which is the process of breaking down food molecules to release energy for growth.
 This (aerobic) respiration uses oxygen and releases carbon dioxide (and water), and happens constantly.
-\textbf{Photosynthesis} and \textbf{respiration} are therefore in a constant battle, with one producing \ch{O2} and one using it, and one absorbing \ch{CO2} and the other producing it.
+**Photosynthesis** and **respiration** are therefore in a constant battle, with one producing \ch{O2} and one using it, and one absorbing \ch{CO2} and the other producing it.
 This means that when we want to optimise the conditions for both processes, we want a constant flow of air over the leaf during the day.
-For night however, we need to know about \textbf{stomata}, which are a structure within plant leaves which regulate the absorbtion and release of gases.
+For night however, we need to know about **stomata**, which are a structure within plant leaves which regulate the absorbtion and release of gases.
 It turns out that stomata are typically triggered to open by light, and close without it.
 This means that although carbon dioxide is being produced as plants respire at night, it is not released.
 To bring things back to fans, this means our fans should be on the same activation schedule as the lights.
