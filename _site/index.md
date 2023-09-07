@@ -1,3 +1,23 @@
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+<script>
+    window.MathJax = {tex: {packages: {'[+]':['mhchem']}}, loader: {load: ['[tex]/mhchem']}};
+</script>
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
+
+$$x+1$$
+
+$$\ce{CO2 -> O2}$$
+
 # Introduction
 
 So, you want to grow plants? (horticulture)
