@@ -1,4 +1,4 @@
-# Introduction}
+# Introduction
 
 So, you want to grow plants? (horticulture)
 
@@ -35,11 +35,10 @@ Before germination can occur, a seed must be exposed to the correct environmenta
 Not all seeds germinate.
 The viability of a seed depends on several factors, most obviously the physical condition of the seed, its previous exposure to extreme temperatures/pressures, and other parameters such as its age.
 
-## Types of Propagation}
+## Types of Propagation
 Plants don’t always follow the stages outlined above. Instead, some of the stages can be skipped depending on how the plant is propagated. Here the term propagation refers to the creation of a new and independent plant from an existing plant.
 The four types of propagation are;
 
-[noitemsep]
 \item Seed propagation (plant seeds, seeds grow)
 \item Vegetative propagation (cut and replant a section of an existing plant)
 \item Rhizome propagation
@@ -47,13 +46,13 @@ The four types of propagation are;
 
 
 
-## Nutrients}
+## Nutrients
 There are 14 mineral nutrients which plants need to grow, which can be divided into two groups; macronutrients, and micronutrients. There are also three non-mineral nutrients which are required. Not all plants need all of the nutrients.
 
-### Non-Mineral Nutrients}
+### Non-Mineral Nutrients
 Hydrogen (H), Oxygen (O), and Carbon (C), are the three non-mineral nutrients needed for plant growth.
 
-### Macronutrients}
+### Macronutrients
 Nitrogen - chlorophyll production, all round growth
 
 Phosphorus - formation of most cells, encourages blooming and root growth
@@ -66,7 +65,7 @@ Magnesium - chlorophyll production and growth enzymes
 
 Sulphur - production of protein, root and seed growth, and overall growth and cold resistance
 
-### Micronutrients}
+### Micronutrients
 
 Boron - seed and fruit development, and aids use of other nutrients
 
@@ -84,11 +83,11 @@ Nickel - nitrogen use
 
 Zinc - transformation of carbohydrates, sugar consumption regulation, and growth regulation
 
-## Light}
+## Light
 
 Photoperiodism is the mechanism which plants use to stay in tune with seasons
 
-## Fertilizer}
+## Fertilizer
 Plant fertilizer is a collection of chemical compounds which together promote healthy plant growth.
 Such collections of compounds should contain all of the nutrients a plant requires, and at the right relative concentrations for the plant they are supplied to.
 The exact and optimal concentrations of each compound vary both between types of plant, and between the stages of the plant's lifecycle.
@@ -102,9 +101,9 @@ Fertizer grades describe...
 Fertigation = adding nutrients to a crop using irrigation systems.
 
 
-## Types of Plant}
+## Types of Plant
 
-### Determinate vs Indeterminate Growth}
+### Determinate vs Indeterminate Growth
 Plants can either follow a set lifecycle, in which they germinate, grow, flower, and eventually die, or they can live indefinitely under the correct conditions.
 Plants which follow a set lifecycle are said to be \textbf{determinate}.
 Plants which can live indefinitely under the correct conditions are said to be \textbf{indeterminate}, or exhibit indeterminate growth.
@@ -113,11 +112,11 @@ One cannot make a plant of a determinate species live forever, and, given favour
 
 
 
-### Transgenic Plants}
+### Transgenic Plants
 Plants into which one or more genes from another species have been introduced into the genome, are called transgenic plants.
 The creation of these plants requires a genetic engineering process of some kind, of which there are several options. 
 
-#### CRISPR}
+#### CRISPR
 Each living cell (in the Eukarya domain) contains a nucleus, which itself contains a molecule which describes how that cell should develop, function, grow, and reproduce.
 This molecule is called \textbf{DNA}, which stands for deoxyribonucleic acid.
 DNA is structured as two long strands of nucleotide bases (type of smaller molecule).
@@ -157,13 +156,12 @@ A chromosome is a long DNA molecule which contains part or all of the genetic ma
 Polyploids are organisms whose cells have more than one pair of chromosomes.
 
 
-## Plant Classification}
+## Plant Classification
 The classification of plants, and by extension of all living creatures, is an ongoing and heavily debated area of science.
 A simplification is currently done according to eight levels, with each encompassing a subset of the last.
 This system is always evolving and changing as new species and relationships are discovered.
 That said, we have to start somewhere, so the generally accepted system we use today contains the following levels;
 
-[noitemsep]
 \item Domain
 \item Kingdom
 \item Phylum
@@ -184,20 +182,20 @@ Of the Angiosperms, it then becomes a bit more specific, with things like carrot
 
 Angiosperm Phylogeny Group (APG) is a 
 
-### Visualising Classification Systems}
+### Visualising Classification Systems
 The levels in a classification system can be represented as vertical measures on a dendrogram, or for a more interesting visual appearance a phylogenetic tree.
 These trees are essentially radial dendrograms which show which species, shown on the outermost ring, are most closely related to oneanother, and where their genetic material diverges.
 
 
-### Ornamental Plants}
+### Ornamental Plants
 Saffron is a flower
 
-### Edible Plants}
+### Edible Plants
 
-#### Leafy Greens}
+#### Leafy Greens
 Leafy greens/herbs
 
-#### Root Vegetables}
+#### Root Vegetables
 Root vegetables
 
 Carrots = 80 days
@@ -206,14 +204,14 @@ Potatoes = 110 days
 
 Lettuce = 50 days
 
-#### Legumes}
+#### Legumes
 Lentils
 
 Soybeans
 
 
 
-#### Fruits}
+#### Fruits
 Fruits
 - citrus
 - berries
@@ -227,26 +225,26 @@ Strawberry = 1.5 years
 
 Blueberries (bush) = 2 years
 
-### Succulents}
+### Succulents
 
 
-### Bonsai Plants}
+### Bonsai Plants
 Bonsai is the art of growing and training miniature trees. This isn’t necessarily related to hydroponics, although it is possible to use hydroponics to create them. They are mentioned here as being loosely under the ‘rare and exotic’ remit in the introduction of these notes, but practically speaking the value of Bonsai plants comes from the work invested in their pruning/maintenance rather than their growth. For this reason, they won’t be discussed further.
 
-### Special Mentions}
+### Special Mentions
 
-#### Ginseng}
+#### Ginseng
 Ginseng is the root of a plant in the Panax genus.
 
 
-# Hydroponic Basics}
+# Hydroponic Basics
 
 \minitoc
 
 Hydroponics is the growth of plants without soil. To achieve this, the soil’s role is replaced by a) an inert \textbf{growth medium}, and b) \textbf{nutrients} delivered in solution.
 These components each support plant growth in different ways. Growth mediums provide physical support to the plant, and the nutrient solution provides essential chemical compounds in addition to water.
 
-## Growth Mediums}
+## Growth Mediums
 In hydroponics, a growth medium, or substrate, is an inert substance which provides physical support to a growing plant.
 Whilst these mediums are not strictly necessary, without them a set of supporting ropes/frames would be needed for each plant, so using them reduces the amount of labor/attention needed.
 
@@ -259,7 +257,7 @@ Water holding capacity (WHC)?
 
 Air filled porosity (AFP)
 
-### Lava Rocks}
+### Lava Rocks
 Lava rocks can be heated which causes them to dramatically expand. 
 This produces a strong and lightweight material which can be used as a growth medium.
 Examples of lava rock devired growth mediums are perlite and vermiculite.
@@ -267,34 +265,34 @@ Both of these mediums are lightweight, cheap, and moderately porous.
 They can also both be dangerous if not handled carefully, as their dust contains silicon dioxide.
 If inhaled, this can cause physical damage and scarrification of your lungs (a condition called silicosis), which permanently lowers your lung capacity and is untreatable.
 
-### Coco Coir}
+### Coco Coir
 The fibrous material which forms the shell of a coconut can be processed and used as a growth medium.
 This material, known as coco coir, is lightweight, organic, renewable, and has a high capacity for absorbing nutrients.
 This material can however naturally contain salt, which can affect the balance of the nutrient solution being used.
 
-### Expanded Clay}
+### Expanded Clay
 Clay can be rolled into pebbles and cooked, which results in the creation of expanded clay pebbles.
 These pebbles are a less dangerous, but more expensive, version of the lava rocks described above.
 This considered, they can be beneficial given their size compared to other mediums, as larger gaps allow more oxygen in the air to reach parts of the roots.
 However, they can also increase the PH of the nutrient solution.
 
-### Peat Moss}
+### Peat Moss
 A final growth medium for consideration is called peat moss.
 It is gathered from naturally occurring (and finite) peat bogs, and is more expensive than other growth mediums.
 It's benefit is that it doesn't leech nutrients from the nutrient solution it's used with, however as any organic material it will decay over time.
 
-### Blends}
+### Blends
 Any pair, or group of the growth mediums mentioned above can be combined to form a composite growth medium. 
 This can bring the benefits of one while reducing the drawbacks from another.
 The sky is the limit when concocting composite mediums, and some plants may grow better in different mixes (for example, tall, heavy plants like corn may do better in a heavier medium like peat moss than in perlite).
 
-### Special Mentions}
+### Special Mentions
 Glass beads are not a suitable growth medium because the growth medium also acts to block light from reaching the roots. 
 The roots themselves can function in light, but so can algae which may compete with the plants for nutrients. 
 Therefore, opaque growth mediums are preferred - not because they’re better for the plant, but because they’re worse for the algae.
 Additionally, large glass beads are much heavier than other mediums, which make it harder for younger/weaker plants to grow roots.
 
-## Nutrient Solutions}
+## Nutrient Solutions
 In the absense of soil, the nutrients which plants need must be delivered somehow.
 One way to achieve this is through a solution provided directly to the roots of the plants.
 This nutrient solution must provide everything the plant needs other than the oxygen, carbon, and hydrogen it can access in the air.
@@ -307,37 +305,34 @@ Calcium Nitrate
 Magnesium Sulphate (Epsom Salt)
 1
 
-### Preventing Algae Bloom}
+### Preventing Algae Bloom
 
-#### Hydrogen Peroxide}
+#### Hydrogen Peroxide
 
-#### Beneficial Bacteria}
+#### Beneficial Bacteria
 In order to avoid algae growth and other unwanted consumers of the nutrient solution, beneficial bacteria can be added.
 These bacteria will out-compete any other organisms (other than the plants) which exist in the solution, which decreases the need for maintenance in the form of solution cleaning.
 
 
-### 1:250 Stock Solution}
+### 1:250 Stock Solution
 This solution is described as a good general purpose hydroponic nutrient mix for a range of plants.
-[nolistsep]
+
 \item Create solution A
-	[nolistsep]
 	\item to 100ml of warm water, add 15ml of NPK fertilizer
 	\item add 7.5ml of magnesium sulphate to the water
 	
 \item Create solution B
-	[nolistsep]
 	\item to a new 100ml of warm water, add 15ml of calcium nitrate
 	\item add 4ml of A for each 1L of final solution
 	
 \item Create nutrient solution
-	[nolistsep]
 	\item add 4ml of B for each 1L of final solution
 	
 
 
 Total dissolved salts (TDS) meter measures electrical conductivity (EC). The 1:250 stock solution provides a 1900 us/cm (800ppm).
 
-### Irrigation Cycles}
+### Irrigation Cycles
 While not essential, in some hydroponic configurations (e.g. Bato buckets), not providing a constinuous stream of nutrients to the plants can be beneficial.
 Low irrigation can cause a build-up of salts which can damage the roots, but over-irrigation can prevent oxygen from being absorbed by the roots (depending on configuration).
 - pauses in irrigation cause runoff
@@ -345,7 +340,7 @@ Low irrigation can cause a build-up of salts which can damage the roots, but ove
 less absorbant growth  mediums = longer/more frequent irrigation cycles
 more absorbant growth mediums = shorter/les frequent irrigation cycles
 
-## Lighting}
+## Lighting
 Most plants which use light to produce sugar using CO2, this process is called photosynthesis. However, not all light sources can be used for photosynthesis.
 
 In this lab, we won’t be using any natural light from the sun, so the question is; which lights can be used instead?
@@ -361,9 +356,9 @@ Inverse square law, luminosity decreases with the inverse square of the distance
 This only applies to distance, not bleeding off the edges.
 You can reduce bleeding by adding mirrors, but you can't reduce the inverse square law.
 
-## Electricity}
+## Electricity
 
-### Basic Circuitry}
+### Basic Circuitry
 The ampere (amp) is the unit of measure for electrical current (the speed at which electrons flow through a conductor).
 Volts are the unit of measurement for the difference in electrical potential between any two points in an electrical circuit.
 Ohms are the unit of measurement for eletrical resistance.
@@ -374,20 +369,20 @@ Watt is the unit of measurement for the rate at which eletrical energy is transf
 
 \(P = V * I\)
 
-### Solar Panels}
+### Solar Panels
 Solar panels generate electricity from sunlight.
 
 
-### Batteries}
+### Batteries
 
-### Biogas}
+### Biogas
 Biogas is produced by the anaerobic decomposition of organic material.
 
 The equation for anaerobic decomposition is
 
 \(Organic Waste -> Biogas + Digestate + Water\)
 
-## Economics}
+## Economics
 Like other types of farming, the economics of hydroponics is fairly simple: the plants you grow should be more valuable than it costs to grow them.
 We can express this as an equation which covers the entire lifecycle of a plant.
 
@@ -400,14 +395,14 @@ the lifetime expenses are the cost of the seeds, nutrients, water, and total ene
 and the plant value is the total value of all biomass produced.
 This can be the number of plants x the number of plants grown, or for fruits it may be the total weight of sellable product.
 
-### Worked Example}
+### Worked Example
 
 Lets say we have an all-in startup cost of \pounds1000, and our plants take a 100W bulb running for 14 hours a day.
 This bulb, at \pounds0.20 per KWh will cost us \pounds8.68 per month to run.
 Other energy, nutrients, and general repairs may double this to \pounds16.00 in total per month, which for a plant growth cycle of three months gives us a total lifetime cost of \pounds48.
 
 
-# Hydroponic Techniques}
+# Hydroponic Techniques
 Circulating vs non-circulating techniques
 Kratky Method
 The Kraty method is a non-circulating technique, and involves setting a seedling plant in 
@@ -419,7 +414,7 @@ This technique involves passing a shallow stream of nutrient solution past the b
 float valve – opens if liquid level drops
 
 
-## Growth Chamber}
+## Growth Chamber
 Target and tolerance values allow strict control over parameters.
 Hermetically sealed (airtight) chambers allow total control over air contents and flow.
 Chamber Parameters
@@ -428,7 +423,7 @@ CO2 Level
 Humidity
 
 
-## Nutrient Solution Parameters}
+## Nutrient Solution Parameters
 These can all be varied by growth stage
 Electrical Conductivity
 
@@ -438,20 +433,21 @@ Temperature
 Water Tanks
 Intermediate bulk containers (IBC) tanks are plastic with a metal housing which makes for easy transportation. 1000L IBC tanks are available, but may be overkill for non-commercial systems.
 
-# Hardware}
+# Hardware
 
 \minitoc
 
-## Sensors}
+## Sensors
 At the heart of a successful automated plant factory, are sensors.
 These are responsible for measuring the environment, and reporting those measurements back to a central controller.
 This controller can then activate devices, pumps, and lights, to create the perfect environment for the plants to grow.
 
-### Nutrient Sensors}
+### Nutrient Sensors
 
-### Growth Chamber Sensors}
+### Growth Chamber Sensors
 
-### Auxilliary Sensors}
+### Auxilliary Sensors
+
 smoke alarm
 energy usage sensors
 hardware timers
@@ -465,10 +461,10 @@ Resevoir
 Nutrient Solution
 Growth Duct
 
-## Housing}
+## Housing
 
 
-### Shelving}
+### Shelving
 
 
 ### Enclosure
@@ -534,7 +530,7 @@ Inlet fan
 
 Circulation fan
 
-#### Air Filtration}
+#### Air Filtration
 In a hermetically sealed growth chamber, or even an imperfectly sealed but reasonably secure chamber, it is a good idea to minimise the amount of bacteria, parasites, and insects in the air.
 Given the optimised conditions of a growth chamber, these unwelcome additions can quickly destroy any precious organic matter therein, and may even damage some of the sensors and other actuators.
 To avoid this, air filtration at the point of entry to the chamber is advised, which can be achieved in a cost effective way by applying a filter to the outside of the inlet fan.
@@ -547,35 +543,32 @@ When it comes to plants however, it's also important to consider perspective.
 It is overwhelmingly more likely that a single stray bug lays eggs and completely decimates your farm, than an airborne pathogen lands in the nutrient system and overruns it.
 This means that while it's good to know some specifics of air filtration, in the early hobbyist stage of this endeavor it's probably enough to slap a face mask over the inlet fan and move on.
 
-#### Gas Composition}
+#### Gas Composition
 Controlling and adjusting the composition of the air in a growth chamber requires specialist pumps, sensors, and tanks, which are each orders of magnitude more expensive than the other hardware in these notes.
 For this reason, if you are deeply invested in the hydroponic way of life, then you can find more information elsewhere.
 
-### Humidifiers}
+### Humidifiers
 
 
-### Heaters}
+### Heaters
 
 
-### Summary}
+### Summary
 
 
 
-# Software}
+# Software
 Configuring a hydroponics system to run automatically is possible using only hardware control switches. However, in order to gain some visibility into the health of the system, and to allow more fine-grain control over the parameters, additional software is required.
 This software periodically checks the levels of different parameters by reading data from sensors, and then reacts to the values retrieved from these sensors by turning on fans, adding nutrients, and so on. These reactions to the sensor readings can be 
 
 
-## Reactive Controllers}
+## Reactive Controllers
 
-## Coordinators}
+## Coordinators
 
-## Data Storage}
+## Data Storage
 Each of the reactive controllers, whilst recording measurements from sensors and acting accordingly, may additionally send their measurements for storage and analysis.
 
 
-# Outstanding Questions}
+# Outstanding Questions
 which light specifically can be used in photosynthesis and why?
-
-
-
