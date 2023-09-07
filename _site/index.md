@@ -114,7 +114,7 @@ The exact and optimal concentrations of each compound vary both between types of
 
 Plant fertilizer can be purchased based on a three-number combination describing its contents.
 E.g. 24-8-16
-The first number is the percentage of nitrogen (\ch{N}), the second is the percentage of phosphate (\ch{P2O5}), and the third is the percentage of potash (\ch{K2O}).
+The first number is the percentage of nitrogen $$\ce{N}$$, the second is the percentage of phosphate $$\ce{P2O5}$$, and the third is the percentage of potash $$\ce{K2O}$$.
 
 Fertizer grades describe...
 
