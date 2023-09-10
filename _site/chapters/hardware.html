@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Hardware &amp; Construction Methods | BIGBIGPLANTS</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Hardware &amp; Construction Methods" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Hardware" />
+<meta property="og:description" content="Hardware" />
+<link rel="canonical" href="http://localhost:4000/chapters/hardware.html" />
+<meta property="og:url" content="http://localhost:4000/chapters/hardware.html" />
+<meta property="og:site_name" content="BIGBIGPLANTS" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Hardware &amp; Construction Methods" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Hardware","headline":"Hardware &amp; Construction Methods","url":"http://localhost:4000/chapters/hardware.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=7c06b7844ac17dd8f021915590002002aa5f07ba">
+ 
+<script>
+    function add_heading_links(){
+    const headings = document.querySelectorAll('h1[id],h2[id],h3[id],h4[id]'); // 1
+    for (const heading of headings) { // 3
+        const linkIcon = document.createElement('a'); // 4
+        linkIcon.setAttribute('href', `#${heading.id}`); // 5
+        linkIcon.innerHTML = '🔗'; // 6
+        heading.appendChild(linkIcon); // 7
+    }
+    console.log("added links")
+    };
+</script>
+
+   
+  </head>
+  <body onload="add_heading_links()">
+    <script type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+
+    <script>
+        window.MathJax = {tex: {packages: {'[+]':['mhchem']}}, loader: {load: ['[tex]/mhchem']}};
+    </script>
+
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Hardware & Construction Methods</h1>
+      <h2 class="project-tagline">hydroponics, biogas reactors, botany!</h2>
+      
+        <a href="https://github.com/bigbigplants/handbook" class="btn">View on GitHub</a>
+      
+      
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <h1 id="hardware">Hardware</h1>
+
+<h2 id="sensors">Sensors</h2>
+<p>At the heart of a successful automated plant factory, are sensors.
+These are responsible for measuring the environment, and reporting those measurements back to a central controller.
+This controller can then activate devices, pumps, and lights, to create the perfect environment for the plants to grow.</p>
+
+<h3 id="nutrient-sensors">Nutrient Sensors</h3>
+
+<h3 id="growth-chamber-sensors">Growth Chamber Sensors</h3>
+
+<h3 id="auxilliary-sensors">Auxilliary Sensors</h3>
+
+<p>smoke alarm
+energy usage sensors
+hardware timers</p>
+
+<p>Shelf
+Cover
+Fan
+HEPA Filter
+Light
+Resevoir
+Nutrient Solution
+Growth Duct</p>
+
+<h2 id="housing">Housing</h2>
+
+<h3 id="shelving">Shelving</h3>
+
+<h3 id="enclosure">Enclosure</h3>
+<p>Insect netting</p>
+
+<p>Solid plastic sheets</p>
+
+<p>Solid fabric sheets</p>
+
+<p>Insulation</p>
+
+<p>Glass mirror</p>
+
+<p>specular (perfect) reflection vs diffuse (blurry) reflection</p>
+
+<p>foil bubble wrap</p>
+
+<p>The R-value of a material is a measurement of its thermal insulation capability.</p>
+
+<h3 id="piping">Piping</h3>
+
+<p>PVC pipe deteriorates in sunlight, so painting it can increase its longevity.</p>
+
+<p>float valve - opens or closes depending on the level of liquid in a container.</p>
+
+<h4 id="filters">Filters</h4>
+
+<p>Sediment filters may be useful if sourcing data from an external resevoir (e.g. a rain tank).</p>
+
+<h2 id="lights">Lights</h2>
+
+<p>Individual LED’s can be purchased in bulk (5,000+) from industry suppliers.
+See LM301H series LEDs.</p>
+
+<p>Some bulk LED’s are available on Temu.</p>
+
+<h2 id="actuators">Actuators</h2>
+
+<p>The collection of sensors described above can be influenced by the outputs of electrical devices.
+For example, the temperature can be increased by activating a heater, or the humidity can be increased by activating a humidifier.
+Lets call the collection of devices which we can configure to adjust our various environmental parameters actuators.
+The list of actuators required for a simple NFT hydroponic setup are as follows;</p>
+
+<p>\item Nutrient solution pump
+\item Chamber Fan
+\item Humidifier
+\item Heater
+\item External Fan</p>
+
+<h3 id="pumps">Pumps</h3>
+
+<p>Ram pump</p>
+
+<p>Electric pump</p>
+
+<h3 id="fans">Fans</h3>
+<p>Good airflow is essential for effective respiration in the plants, which in turn is essential for maximising nutrient absorbtion, and therefore growth.
+When considering fans for a hydroponic setup, there are two types to consider; fans within the growth chamber (whose purpose is to circulate air within the chamber), and fans which draw in fresh air.
+We can refer to these fans as circulation fans, and inlet fans respectively.
+Depending on the scale of the system’s design, a single fan may meet both needs, but lets look at some science first.</p>
+
+<p>During photosynthesis, plants absorb carbon dioxide (CO2) and produce oxygen (O2).
+However, photosynthesis does not occur when the plant is not under light, which for optimal growth should be at least 8 hours per day.
+Plants also respire, which is the process of breaking down food molecules to release energy for growth.
+This (aerobic) respiration uses oxygen and releases carbon dioxide (and water), and happens constantly.
+<strong>Photosynthesis</strong> and <strong>respiration</strong> are therefore in a constant battle, with one producing \ch{O2} and one using it, and one absorbing \ch{CO2} and the other producing it.
+This means that when we want to optimise the conditions for both processes, we want a constant flow of air over the leaf during the day.
+For night however, we need to know about <strong>stomata</strong>, which are a structure within plant leaves which regulate the absorbtion and release of gases.
+It turns out that stomata are typically triggered to open by light, and close without it.
+This means that although carbon dioxide is being produced as plants respire at night, it is not released.
+To bring things back to fans, this means our fans should be on the same activation schedule as the lights.</p>
+
+<p>Inlet fan</p>
+
+<p>Circulation fan</p>
+
+<h4 id="air-filtration">Air Filtration</h4>
+<p>In a hermetically sealed growth chamber, or even an imperfectly sealed but reasonably secure chamber, it is a good idea to minimise the amount of bacteria, parasites, and insects in the air.
+Given the optimised conditions of a growth chamber, these unwelcome additions can quickly destroy any precious organic matter therein, and may even damage some of the sensors and other actuators.
+To avoid this, air filtration at the point of entry to the chamber is advised, which can be achieved in a cost effective way by applying a filter to the outside of the inlet fan.</p>
+
+<p>Before slapping a COVID face mask across your inlet fan and checking this off the list, we should have a more detailed look at air filtration.
+Specifically, it’s important to know that when it comes to air filtration, it’s all about the size of the particles which are allowed through the filter, as this ultimately determines what’s on the guest list for your chamber.
+A loosey goosey filter may allow particles up to 0.3\textmu{}m (micrometers aka one-millionth of a meter) through, with extremely high quality filters only allowing particles up to 0.02\textmu{}m through.</p>
+
+<p>When it comes to plants however, it’s also important to consider perspective.
+It is overwhelmingly more likely that a single stray bug lays eggs and completely decimates your farm, than an airborne pathogen lands in the nutrient system and overruns it.
+This means that while it’s good to know some specifics of air filtration, in the early hobbyist stage of this endeavor it’s probably enough to slap a face mask over the inlet fan and move on.</p>
+
+<h4 id="gas-composition">Gas Composition</h4>
+<p>Controlling and adjusting the composition of the air in a growth chamber requires specialist pumps, sensors, and tanks, which are each orders of magnitude more expensive than the other hardware in these notes.
+For this reason, if you are deeply invested in the hydroponic way of life, then you can find more information elsewhere.</p>
+
+<h3 id="humidifiers">Humidifiers</h3>
+
+<h3 id="heaters">Heaters</h3>
+
+<h3 id="summary">Summary</h3>
+
+
+
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="https://github.com/bigbigplants/handbook">handbook</a> is maintained by <a href="https://github.com/bigbigplants">bigbigplants</a>.</span>
+        
+      </footer>
+    </main>
+    
+
+  </body>
+</html>

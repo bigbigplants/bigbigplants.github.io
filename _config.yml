@@ -11,5 +11,14 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - kramdown
+  - jekyll-scholar
+
+collections:
+  chapters:
+    output: true
+
+scholar:
+  bibliography: references.bib
+  style: _bibliography/ieee.csl
 
 math_engine: katex
